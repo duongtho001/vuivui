@@ -1,0 +1,9 @@
+/* index.css - small placeholder to avoid missing /index.css in production
+   You can add global/custom styles here. Tailwind is loaded via CDN in index.html.
+*/
+
+html, body, #root {
+  height: 100%;
+}
+
+/* keep background handled by Tailwind classes in index.html */
